@@ -195,13 +195,13 @@
       "url": "https://packages.unity.com"
     },
     "nyc.scatter.depthkit.core": {
-      "version": "file:C:/Users/doros/Downloads/Depthkit_Expansion_Package_Phase10_021524/Depthkit_Expansion_Package_Phase10_021524/depthkit.core",
+      "version": "file:C:/Users/MerceAlvarez/Downloads/Depthkit_Expansion_Package_Phase10_021524/Depthkit_Expansion_Package_Phase10_021524/depthkit.core",
       "depth": 0,
       "source": "local",
       "dependencies": {}
     },
     "nyc.scatter.depthkit.core.shadergraph": {
-      "version": "file:C:/Users/doros/Downloads/Depthkit_Expansion_Package_Phase10_021524/Depthkit_Expansion_Package_Phase10_021524/depthkit.core.shadergraph",
+      "version": "file:C:/Users/MerceAlvarez/Downloads/Depthkit_Expansion_Package_Phase10_021524/Depthkit_Expansion_Package_Phase10_021524/depthkit.core.shadergraph",
       "depth": 0,
       "source": "local",
       "dependencies": {
