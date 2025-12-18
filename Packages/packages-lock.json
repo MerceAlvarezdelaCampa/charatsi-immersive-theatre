@@ -144,15 +144,6 @@
         "com.unity.modules.imgui": "1.0.0"
       }
     },
-    "com.unity.visualeffectgraph": {
-      "version": "14.0.12",
-      "depth": 1,
-      "source": "builtin",
-      "dependencies": {
-        "com.unity.shadergraph": "14.0.12",
-        "com.unity.render-pipelines.core": "14.0.12"
-      }
-    },
     "com.unity.visualscripting": {
       "version": "1.9.4",
       "depth": 0,
@@ -216,15 +207,6 @@
       "dependencies": {
         "nyc.scatter.depthkit.core": "0.14.2",
         "com.unity.shadergraph": "14.0.9"
-      }
-    },
-    "nyc.scatter.depthkit.core.visualeffectgraph": {
-      "version": "file:C:/Users/MerceAlvarez/Downloads/Depthkit_Expansion_Package_Phase10_021524/Depthkit_Expansion_Package_Phase10_021524/depthkit.core.visualeffectgraph",
-      "depth": 0,
-      "source": "local",
-      "dependencies": {
-        "nyc.scatter.depthkit.core": "0.14.2",
-        "com.unity.visualeffectgraph": "14.0.9"
       }
     },
     "com.unity.modules.ai": {

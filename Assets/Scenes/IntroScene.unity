@@ -493,15 +493,16 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: "You stand in the last open space on Lidinis Street.\r\n\r\nFor fifteen
-    years, Charatsi has served as a gathering place next to the border. A refuge
-    of conversation and stillness amid the absences around you. \r\n\r\nBefore it,
-    this street hummed with the sounds of craftspeople at work: metalworkers, carpenters,
+    years, Haratsi has served as a gathering place next to the border. A refuge of
+    conversation and stillness amid the absences around you. \r\n\r\nBefore it, this
+    street hummed with the sounds of craftspeople at work: metalworkers, carpenters,
     repair shops. Now their workshops stand silent.\r\n\r\nThe city has plans for
-    this street. Plans that do not include Charatsi.\r\n\r\nWhat you are about to
-    witness is a conversation between Stavros, the owner, and Mr. Demetris, a regular
-    - two people who have lived this space and chosen to share what it means to them
-    and to the community of old Nicosia.\r\n\nThis conversation is not just about
-    a coffeeshop, but about the rhythms of life that disappear in the name of progress."
+    this street. And now the future of Haratsi is uncertain.\n\r\nWhat you are about
+    to witness is a conversation between Stavros, the owner, and Mr. Demetris, a
+    regular - two people who have lived this space and chosen to share what it means
+    to them and to the community of old Nicosia.\r\n\nThis conversation is not just
+    about a coffeeshop, but about the rhythms of life that disappear in the name
+    of progress."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
